@@ -1,0 +1,7 @@
+Juan: JUAN123@GMAIL.com
+no-es-correo
+Maria: maria@example.co
+otro texto
+pedro@@hotmail..com
+ana89@yahoo.com
+Correo: valentina@correo.com
